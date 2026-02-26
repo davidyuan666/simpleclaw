@@ -12,8 +12,8 @@ import urllib3
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-BOT_TOKEN = "8419880332:AAGD8amX2_bISxNHua56rfWIvF7rkb3aDnU"
-CHAT_ID = "751182377"
+BOT_TOKEN = "xx"
+CHAT_ID = "xx"
 PROXY = "http://127.0.0.1:9788"
 proxies = {'http': PROXY, 'https': PROXY}
 
